@@ -1,0 +1,10 @@
+{
+  "name": "@pkg/zoo",
+  "version": "1.0.0",
+  "files": [
+    "index.js"
+  ],
+  "dependencies": {
+    "@pkg/foo": "workspace:*"
+  }
+}
